@@ -21,8 +21,6 @@ public class Hash {
             this.hashTable[key] = Node.from(value);
             return;
         }
-
-        this.hashTable[key].
     }
 
     @Override
